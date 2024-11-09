@@ -1,8 +1,6 @@
 console.log("This is index.js");
-// Todos"
-// 1. Store all the data to the localStorage
-// 2. Give another column as an option to delete the book
-// 3. Add a scroll bar to the view
+//Even you can igoner this file if you are new at web Development
+//this file os actually not attached with css because i have creted a new Updated file indexes6.js
 
 // Constructor
 function Book(name, author, type) {
